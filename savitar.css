@@ -82,6 +82,18 @@ p {
     font-family: 'Inter', sans-serif;
 }
 
+.menu-item-savitar {
+    text-decoration: none;
+    color: rgb(0, 255, 234);
+    padding: 10px 20px;
+    transition: 0.2s;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    margin: 0;
+}
+
 .menu-item:hover {
     color: rgb(0, 255, 234);
     font-size: 20px;

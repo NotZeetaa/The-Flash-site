@@ -82,6 +82,19 @@ p {
     font-family: 'Inter', sans-serif;
 }
 
+.menu-item-god-speed {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    transition: 0.2s;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Inter', sans-serif;
+    color: grey;
+    font-size: 20px;
+    margin: 0;
+}
+
 .menu-item:hover {
     color: grey;
     font-size: 20px;

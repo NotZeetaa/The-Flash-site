@@ -82,6 +82,18 @@ p {
     font-family: 'Inter', sans-serif;
 }
 
+.menu-item-zoom {
+    text-decoration: none;
+    color: blue;
+    padding: 10px 20px;
+    transition: 0.2s;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    margin: 0;
+}
+
 .menu-item:hover {
     color: blue;
     font-size: 20px;

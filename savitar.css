@@ -3,7 +3,8 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    text-align: center; /* Center content within the body */
+    text-align: center;
+    padding: 0;
 }
 
 .zoom {
